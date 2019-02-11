@@ -7,6 +7,12 @@ This is my current configuration that i'm using for marlin with the following ha
 - KINGPRINT 12864 LCD Graphic Smart Display Controller Board with Adapter and Cable for 3D Printer Ramps 1.4 RepRap 3D Printer Mendel Prusa Arduino
 - BIQU A4988 Compatible Stepper StepStick Motor Diver Module with Heat Sink for 3D Printer Controller Ramps 1.4(Pack of 5pcs)
 
+Current motors used on my printer:
+- Extruder - C17HD401202-02N (moons)
+- X - C17HD40102-02N (moons)
+- Z - C17HD6039-06N (moons)
+- Y -  C17HD40102-03N (moons)
+
 I take zero responsibility for anyone attempting to use this config, it's just an example of what i've been trying to load for my particular setup.
 I will update this as more info becomes available and I've thoroughly tested the crap out of it.
 As it stands of this update the following has been tested:
