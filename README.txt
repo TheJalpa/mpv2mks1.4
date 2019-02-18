@@ -7,6 +7,14 @@ This is my current configuration that i'm using for marlin with the following ha
 - KINGPRINT 12864 LCD Graphic Smart Display Controller Board with Adapter and Cable for 3D Printer Ramps 1.4 RepRap 3D Printer Mendel Prusa Arduino
 - BIQU A4988 Compatible Stepper StepStick Motor Diver Module with Heat Sink for 3D Printer Controller Ramps 1.4(Pack of 5pcs)
 
+Addons:
+- BLTouch sensor
+
+Printed stuff used:
+- https://www.thingiverse.com/thing:3236858 (didn't quite clear my fan on monoprice v2 select, had to slightly trim edge)
+- https://www.thingiverse.com/thing:2010282 to mount meanwell power supply
+- https://www.thingiverse.com/thing:1725755 to mount MKS to meltzi mount spot
+
 Current motors used on my printer:
 - Extruder - C17HD401202-02N (moons)
 - X - C17HD40102-02N (moons)
