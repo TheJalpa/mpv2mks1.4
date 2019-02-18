@@ -25,6 +25,7 @@ I take zero responsibility for anyone attempting to use this config, it's just a
 I will update this as more info becomes available and I've thoroughly tested the crap out of it.
 As it stands of this update the following has been tested:
 
+(First week)
 - Increment steps of 5C up to 240C for nozzle, temp tested with thermal gun
 - Increment steps of 5C up to 70C for bed, temp tested with thermal gun
 - Wires for heat bed and nozzle tested with thermal gun to ensure no draw issues
@@ -36,5 +37,8 @@ runaway mode, so the feature seems to catch the heat differences as expected.  T
 in a real scenario, going to research a way to test this in a "real" scenario via artificial means to make sure it protects it as intended.
 - Ran some petg through it to make sure the nozzle temp vs extrusion was working, got wonderful petg barf as would expect.
 
+(third week)
+- prints going reliably, working fantastic.  still haven't finished buttoning up the case since it's still halfway hanging out of the printer, but it's printing beautifully.  Changed a few things on the stepper calibration to make sure it was accurate.
+- bltouch also installed, working beautifully.
 Again, use this config at your own risk.  I will be updating and testing as I find more information and get a chance to run through this
 and test the everliving crap out of this.
